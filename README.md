@@ -4,7 +4,7 @@
 
 <p align="center">Trabalhando como Freelancer<br/> Eu sou desenvolvedora fullstack Java + React.js</p>
 
-<h3 align="left">## 🚀 Minhas Skills</h3>
+<h3 align="center">## 🚀 Minhas Skills</h3><br>
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -30,7 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>  
  
 
-</p>
+</p><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=en&layout=compact" alt="mayarambastos" /></p>
 
 <p>&nbsp;
