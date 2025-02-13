@@ -6,7 +6,7 @@
 
 <h3 align="center">## 🚀 Minhas Skills</h3><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,jquery,spring,react,html,css,figma,bootstrap,wordpress,postgre,mysql,aws,docker,idea,eclipse,vscode,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,jquery,spring,react,html,css,figma,bootstrap,wordpress,postgres,mysql,aws,docker,postman,idea,eclipse,vscode,arduino,ps,ai,blender" />
 </p>
 <p> 
 
