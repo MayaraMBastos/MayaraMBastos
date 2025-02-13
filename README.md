@@ -26,10 +26,9 @@
 <img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufFNCNxN6w9y-VrQFulDKcoiHg33mG1yv0Q&s" alt="junit"/>
 <p>
 
----
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayaraMBastos&theme=solarized)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayaraMBastos&theme=solarized>
 
 ![](https://raw.githubusercontent.com/MayaraMBastos/MayaraMBastos/master/profile-summary-card-output/solarized/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/MayaraMBastos/MayaraMBastos/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
