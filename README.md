@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MayaraMBastos}&theme={solarized})
 
 ![](https://raw.githubusercontent.com/MayaraMBastos/MayaraMBastos/master/profile-summary-card-output/solarized/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/MayaraMBastos/MayaraMBastos/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
