@@ -31,9 +31,8 @@
  
 
 </p><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=en&layout=compact" alt="mayarambastos" /></p>
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayarambastos&show_icons=true&locale=en" alt="mayarambastos" /></p>
+<p  align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=en&layout=compact" alt="mayarambastos" />
+<img src="https://github-readme-stats.vercel.app/api?username=mayarambastos&show_icons=true&locale=en" alt="mayarambastos" /></p>
 
 
