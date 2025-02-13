@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=java,javascript,jquery,spring,react,html,css,figma,bootstrap,wordpress,postgres,mysql,aws,rabbitmq,docker,postman,idea,eclipse,vscode,arduino,ps,ai,blender,selenium" />
 
 </p>
-<p align="left">
+<p align="center">
     <img  src="https://www.cdnlogo.com/logos/c/44/cucumber.svg" alt="cucumber" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufFNCNxN6w9y-VrQFulDKcoiHg33mG1yv0Q&s" alt="junit" width="40" height="40"/>
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
