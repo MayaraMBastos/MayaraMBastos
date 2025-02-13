@@ -7,7 +7,7 @@
 <h3 align="left">## 🚀 Minhas Skills</h3>
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  </p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="figma" width="40" height="40"/>
@@ -30,8 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>  
  
 
-
-<p>
+</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=en&layout=compact" alt="mayarambastos" /></p>
 
 <p>&nbsp;
