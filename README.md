@@ -5,6 +5,9 @@
 <p align="center">Trabalhando como Freelancer<br/> Eu sou desenvolvedora fullstack Java + React.js</p>
 
 <h3 align="center">## 🚀 Minhas Skills</h3><br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,javascript,springboot,react,figma" />
+</p>
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
