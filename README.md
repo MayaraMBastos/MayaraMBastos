@@ -15,7 +15,8 @@
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </p><br>
 <p  align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mayarambastos&show_icons=true&locale=pt-br" alt="mayarambastos" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=pt-br&layout=donut-vertical" alt="mayarambastos" />
-<img src="https://github-readme-stats.vercel.app/api?username=mayarambastos&show_icons=true&locale=pt-br" alt="mayarambastos" /></p>
+</p>
 
 
