@@ -15,7 +15,7 @@
 </p><br>
 <div  align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mayarambastos&show_icons=true&locale=pt-br" alt="mayarambastos" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=pt-br&layout=donut-vertical" alt="mayarambastos" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mayarambastos&show_icons=true&locale=pt-br&layout=compact" alt="mayarambastos" />
 </div>
 
 
