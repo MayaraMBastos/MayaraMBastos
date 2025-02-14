@@ -2,7 +2,7 @@
 
 <h3 align="center">### Olá, meu nome é Mayara!</h3>
 
-<p align="center">Trabalhando como Freelancer<br/> Eu sou desenvolvedora fullstack Java + React.js</p>
+<p align="center">Trabalho como Freelancer desde 2018 <br/> Eu sou desenvolvedora fullstack Java + React.js</p>
 
 <h3 align="center">## 🚀 Minhas Skills</h3><br>
 <p align="center">
